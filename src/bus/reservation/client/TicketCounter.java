@@ -1,5 +1,11 @@
 package bus.reservation.client;
 
+/**
+ * This <i>TicketCounter</i> object will be shared, and 
+ * On this <b>TicketCounter</b> object, we are going to have two threads working.
+ * @author ajay
+ *
+ */
 public class TicketCounter {
 
 	private int ticketsAvailable = 3;

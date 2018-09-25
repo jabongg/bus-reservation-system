@@ -3,8 +3,8 @@ package bus.reservation.system;
 import bus.reservation.client.TicketCounter;
 
 /**
- * Tickets class will extend thread..
- * and on this ticket object, we are going to have two threads.
+ * TicketsBookingThread class will extend thread..
+ * 
  * @author jang
  *
  */
